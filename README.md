@@ -1,3 +1,5 @@
+💻 Project for HackMIT'23, we didn't get prizes but we are the 3rd most-liked on [DevPost](https://devpost.com/software/trinity-1pse20)! 
+
 ## Inspiration
 
 We were inspired by simulations of human behavior by various creators such as Primer and Sethbling. Recent advances in natural language processing and large language models have enabled human-like behavior through natural language. A recent paper by Stanford researchers byPark et al [1] showcased a virtual community of generative agents that interact and communicate with each other, simulating daily activities and continuously updating the individual agent's understanding of the world. 
